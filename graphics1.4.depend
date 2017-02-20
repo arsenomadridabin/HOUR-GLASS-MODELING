@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1458883465 source:e:\1trolls\graphics1.4\controls.cpp
+	<gl/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"common/controls.hpp"
+
+1458243016 source:e:\1trolls\graphics1.4\objloader.cpp
+	<vector>
+	<stdio.h>
+	<string>
+	<cstring>
+	<glm/glm.hpp>
+	"common/objloader.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1457371781 source:e:\1trolls\graphics1.4\shader.cpp
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	"common/shader.hpp"
+
+1458243068 source:e:\1trolls\graphics1.4\text2d.cpp
+	<vector>
+	<cstring>
+	<GL/glew.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	"common/shader.hpp"
+	"common/texture.hpp"
+	"common/text2D.hpp"
+
+1457874241 source:e:\1trolls\graphics1.4\texture.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/glew.h>
+	<gl/glfw3.h>
+
+1458243089 source:e:\1trolls\graphics1.4\vboindexer.cpp
+	<vector>
+	<map>
+	<glm/glm.hpp>
+	"common/vboindexer.hpp"
+	<string.h>
+
+1458872192 source:e:\1trolls\graphics1.4\main.cpp.cpp
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<GL/glew.h>
+	<gl/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<common/shader.hpp>
+	<common/texture.hpp>
+	<common/controls.hpp>
+	<common/objloader.hpp>
+	<common/vboindexer.hpp>
+
